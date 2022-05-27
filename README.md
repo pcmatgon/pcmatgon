@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pcmatgon
 - 👀 I’m interested in Aprender nuevos lenguajes y desarrollo WEEB o aplicaciones WEB
-- 🌱 I’m currently learning javascript vanilla, php formularios de contacto, java puro, ython TK Linux
+- 🌱 I’m currently learning javascript vanilla, php formularios de contacto, java puro, python TK Linux
 - 💞️ I’m looking to collaborate on NADA todavia
 - 📫 How to reach me mauricio.trivino@fundacionelpilar.cl
 
